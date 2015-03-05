@@ -1,12 +1,6 @@
 {
     "name": "vendor/hello-world",
     "description": "My first Composer project",
-    "authors": [
-        {
-            "name": "Your Name",
-            "email": "your@name.com"
-        }
-    ],
     "config": {
 	  "vendor-dir": "protected/vendor"
 	},
